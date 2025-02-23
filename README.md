@@ -7,7 +7,7 @@ I received my Ph.D. in Electrical and Computer Engineering from Purdue Universit
 
 Prior to Adobe Research, I had spent time as research interns at Microsoft Research – Redmond, AT&T Research – New Jersey and Lawrence Livermore National Labs - Livermore. Even prior to that, I worked in Software Engineering roles at Intel, Santa Clara and Atrenta (now Synopsys) on new product development on Electronic Design Automation.
 
-I am a proud dad of a beautiful little girl named [Aarohi.](https://www.aarohiroymitra.com/)
+I am a proud dady of a beautiful little girl named [Aarohi.](https://www.aarohiroymitra.com/)
 
 # [My resume](https://github.com/subrata-mitra/subrata-mitra.github.io/blob/main/doc/Subrata_Mitra_Resume.pdf)
 
