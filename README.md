@@ -7,7 +7,6 @@
 # Publications 
 
 1. **"Cache-Craft: Managing ChunkCaches for Efficient Retrieval-Augmented Generation"**
-
 Shubham Agarwal∗, Sai Sundaresan∗, Subrata Mitra, Debabrata Mahapatra , Archit Gupta,
 Rounak Sharma, Nirmal Joshua Kapu, Tong Yu, Shiv Saini: 
 SIGMOD 2025  [Paper link] ()
@@ -24,7 +23,7 @@ Subrata Mitra, Lampros Flokas, Eugene Wu: VLDB 2025
 Chen-Yi Lu, Shubham Agarwal, Md Mehrab Tanjim, Kanak Mahadik, Anup B. Rao, Subrata
 Mitra, Shiv Kumar Saini, Saurabh Bagchi, Somali Chaterji: ECCV 2024
 
-9. **"Personalized Federated Learning for Text Classification with Gradient-Free Prompt Tuning" **
+9. **"Personalized Federated Learning for Text Classification with Gradient-Free Prompt Tuning"**
 Rui Wang, Tong Yu, Ruiyi Zhang, Sungchul Kim, Ryan A. Rossi, Handong Zhao, Junda Wu,
 Subrata Mitra, Lina Yao, Ricardo Henao: NAACL-HLT (Findings) 2024
 
@@ -32,19 +31,19 @@ Subrata Mitra, Lina Yao, Ricardo Henao: NAACL-HLT (Findings) 2024
 Shubham Agarwal, Subrata Mitra, Sarthak Chakraborty, Srikrishna Karanam, Koyel Mukherjee,
 Shiv Saini: NSDI 2024
 
-13. **"ScaleViz: Scaling Visualization Recommendation Models on Large Data" **
-Ghazi Shazan Ahmad, Shubham Agarwal, Subrata MitraCA, Ryan Rossi, Manav Doshi, Vibhor
+13. **"ScaleViz: Scaling Visualization Recommendation Models on Large Data"**
+Ghazi Shazan Ahmad, Shubham Agarwal, Subrata Mitra, Ryan Rossi, Manav Doshi, Vibhor
 Porwal, Syam Manoj Kumar Paila: PAKDD 2024
 
-15. **"R2D2: Reducing Redundancy and Duplication in Data Lakes" **
+15. **"R2D2: Reducing Redundancy and Duplication in Data Lakes"**
 Raunak Shah, Koyel Mukherjee, Atharv Tyagi, Sai Keerthana Karnam, Dhruv Joshi, Shivam Bhosale,
 Subrata Mitra: SIGMOD 2024
 
-17. **"SEIDEN: Revisiting Query Processing in Video Database Systems" **
+17. **"SEIDEN: Revisiting Query Processing in Video Database Systems"**
 Jaeho Bang, Gaurav Tarlok Kakkar, Pramod Chunduri, Subrata Mitra, Joy Arulraj:  VLDB 2023
 
 19. **"Reinforced Approximate Exploratory Data Analysis"**
-Shaddy Garg, Subrata MitraCA, Tong Yu, Yash Gadhia, Arjun Kashettiwar:  AAAI 2023
+Shaddy Garg, Subrata Mitra, Tong Yu, Yash Gadhia, Arjun Kashettiwar:  AAAI 2023
 
 21. **"Federated Domain Adaptation for Named Entity Recognition via Distilling with Heterogeneous Tag Sets"**
 Rui Wang, Tong Yu, Junda Wu, Handong Zhao, Sungchul Kim, Ruiyi Zhang, Subrata Mitra,
@@ -57,7 +56,7 @@ Ishwarya Sivakumar, Aryan Rajoria, Ashmita Raju, Tushar Aggarwal, Abdullah Shah,
 Garg, Shashank Suman, Myna Prasanna Kalluraya, Subrata Mitra, Ali Payani, Yao Lu, Umakishore
 Ramachandran, Joy Arulraj: DEEM@SIGMOD 2023
 
-25. **"Stash: A Comprehensive Stall-Centric Characterization of Public Cloud VMs for Distributed Deep Learning" **
+25. **"Stash: A Comprehensive Stall-Centric Characterization of Public Cloud VMs for Distributed Deep Learning"**
 Aakash Sharma, Vivek M. Bhasi, Sonali Singh, Rishabh Jain, Jashwant Raj Gunasekaran, Subrata
 Mitra, Mahmut Taylan Kandemir, George Kesidis, Chita R. Das: ICDCS 2023
 
@@ -98,7 +97,7 @@ training on unreliable spot instances. UCC Companion 2021
 Bagchi: SONIC: Application-aware Data Passing for Chained Serverless Applications. USENIX
 Annual Technical Conference 2021
 
-48. Piyush Bagad, Subrata MitraCA, Sunny Dhamnani, Atanu R. Sinha, Raunak Gautam, Haresh
+48. Piyush Bagad, Subrata Mitra, Sunny Dhamnani, Atanu R. Sinha, Raunak Gautam, Haresh
 Khanna: Data-Sharing Economy: Value-Addition from Data meets Privacy. WSDM 2021
 
 50. Ran Xu, Chen-Lin Zhang, Pengcheng Wang, Jayoung Lee, Subrata Mitra, Somali Chaterji, Yin
