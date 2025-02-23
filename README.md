@@ -4,6 +4,8 @@
 # I received my Ph.D. in Electrical and Computer Engineering from Purdue University, West Lafayette, MS in Computer Engineering from University of Florida, Gainesville and BE in Electronics and Telecommunication Engineering from Jadavpur University, Kolkata.
 # Prior to Adobe Research, I had spent time as research interns at Microsoft Research – Redmond, AT&T Research – New Jersey and Lawrence Livermore National Labs - Livermore. Even prior to that, I worked in Software Engineering roles at Intel, Santa Clara and Atrenta (now Synopsys) on new product development on Electronic Design Automation.
 
+# [PhD Thesis](https://github.com/subrata-mitra/subrata-mitra.github.io/blob/main/doc/thesis_subrata_mitra.pdf)  
+
 # Publications 
 
 1. **"Cache-Craft: Managing ChunkCaches for Efficient Retrieval-Augmented Generation"**
