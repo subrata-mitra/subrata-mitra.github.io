@@ -4,18 +4,20 @@
 # I received my Ph.D. in Electrical and Computer Engineering from Purdue University, West Lafayette, MS in Computer Engineering from University of Florida, Gainesville and BE in Electronics and Telecommunication Engineering from Jadavpur University, Kolkata.
 # Prior to Adobe Research, I had spent time as research interns at Microsoft Research – Redmond, AT&T Research – New Jersey and Lawrence Livermore National Labs - Livermore. Even prior to that, I worked in Software Engineering roles at Intel, Santa Clara and Atrenta (now Synopsys) on new product development on Electronic Design Automation.
 
-# [PhD Thesis](https://github.com/subrata-mitra/subrata-mitra.github.io/blob/main/doc/thesis_subrata_mitra.pdf)  
+# [My resume](https://github.com/subrata-mitra/subrata-mitra.github.io/blob/main/doc/Subrata_Mitra_Resume.pdf)
+
+# [PhD thesis](https://github.com/subrata-mitra/subrata-mitra.github.io/blob/main/doc/thesis_subrata_mitra.pdf)  
 
 # Publications 
 
 1. **"Cache-Craft: Managing ChunkCaches for Efficient Retrieval-Augmented Generation"**
 Shubham Agarwal∗, Sai Sundaresan∗, Subrata Mitra, Debabrata Mahapatra , Archit Gupta,
 Rounak Sharma, Nirmal Joshua Kapu, Tong Yu, Shiv Saini: 
-SIGMOD 2025  [Paper link] ()
+SIGMOD 2025  [Paper link]()
 
 3. **"Jade: Design Independence Via Physical Visualization Design"**
 Yiru Chen, Xupeng Li, Jeffrey Tao , Alana Ramjit, Ravi Netravali, Subrata Mitra, Aditya
-Parameswaran, Javad Ghaderi, Dan Rubenstein, Eugene Wu: SIGMOD 2025 [Paper link] ()
+Parameswaran, Javad Ghaderi, Dan Rubenstein, Eugene Wu: SIGMOD 2025 [Paper link]()
 
 5. **"FaDE: More Than a Million What-ifs Per Second"**
 Haneen Mohammed, Alexander Yao, Charlie Summers, Hongbin Zhong, Gromit Yeuk-Yin Chan,
@@ -136,7 +138,7 @@ for parameter tuning of NoSQL datastores for dynamic metagenomics workloads. Mid
 
 67. **"Partial-parallel-repair (PPR): a distributed technique for repairing erasure coded storage"**
 Subrata Mitra, Rajesh Krishna Panta, Moo-Ryong Ra, Saurabh Bagchi: EuroSys 2016
-[Paper link] (https://github.com/subrata-mitra/subrata-mitra.github.io/blob/main/doc/Partial-Parallel-Decoding_PPR_Eurosys_2016.pdf)
+[Paper link](https://github.com/subrata-mitra/subrata-mitra.github.io/blob/main/doc/Partial-Parallel-Decoding_PPR_Eurosys_2016.pdf)
 
 69. Subrata Mitra, Suhas Javagal, Amiya Kumar Maji, Todd Gamblin, Adam Moody, Stephen Lien
 Harrell, Saurabh Bagchi: A Study of Failures in Community Clusters: The Case of Conte. ISSRE Workshops 2016
